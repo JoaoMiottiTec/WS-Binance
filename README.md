@@ -1,10 +1,10 @@
-# Binance Integration 🚀
+# Binance Integration 
 
 Demonstration project showcasing how to integrate with Binance's **WebSocket API**. Simple, effective, no overkill.
 
 ---
 
-## What This Does 🛠️
+## What This Does 
 
 - **WebSocket Connection**: Real-time trade data for **BTC/USDT**.
 - **API Dispatch**: Sends incoming trade data to a mock API. 
@@ -12,7 +12,7 @@ Demonstration project showcasing how to integrate with Binance's **WebSocket API
 
 ---
 
-## Tech Stack ⚙️
+## Tech Stack 
 
 - **Node.js**: Handles the runtime like a pro.
 - **TypeScript**: Because type safety saves lives.
@@ -21,7 +21,7 @@ Demonstration project showcasing how to integrate with Binance's **WebSocket API
 
 ---
 
-## Get Started 🚀
+## Get Started
 
 ### Clone This:
 ```bash
